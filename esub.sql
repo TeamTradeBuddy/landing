@@ -1,0 +1,1 @@
+SELECT email FROM registered WHERE interests=repost
