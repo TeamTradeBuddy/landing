@@ -1,2 +1,2 @@
 # landing
-The landing page for Trade Buddy. https://tradebuddy.xyz
+The test landing page for Trade Buddy.
